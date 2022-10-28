@@ -1,0 +1,9 @@
+{
+    "domain": "fython_script",
+    "name": "Faux Python Scripts",
+    "documentation": "https://github.com/jcronq/hass_faux_python_scripting",
+    "requirements": [],
+    "codeowners": [
+        "@jcronq"
+    ]
+}
